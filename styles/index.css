@@ -1,0 +1,57 @@
+@import url("./reset.css");
+@import url("./fonts.css");
+@import url("./variables.css");
+
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__button/header__button.css");
+@import url("../blocks/header/__nav/header__nav.css");
+
+@import url("../blocks/nav/nav.css");
+@import url("../blocks/nav/__link/nav__link.css");
+
+@import url("../blocks/button/button.css");
+@import url("../blocks/button/_blank/button_blank.css");
+@import url("../blocks/button/_rounded/button_rounded.css");
+
+@import url("../blocks/heading/heading.css");
+@import url("../blocks/heading/_size/heading_size_xs.css");
+@import url("../blocks/heading/_size/heading_size_s.css");
+@import url("../blocks/heading/_size/heading_size_m.css");
+
+@import url("../blocks/features/features.css");
+@import url("../blocks/features/__list/features__list.css");
+@import url("../blocks/features/__title/features__title.css");
+@import url("../blocks/features/__items/features__items.css");
+@import url("../blocks/features/__item/features__item.css");
+@import url("../blocks/features/__image/features__image.css");
+
+@import url("../blocks/quiz/quiz.css");
+@import url("../blocks/quiz/__description/quiz__description.css");
+@import url("../blocks/quiz/__text/quiz__text.css");
+@import url("../blocks/quiz/__image-wrap/quiz__image-wrap.css");
+@import url("../blocks/quiz/__image/quiz__image.css");
+@import url("../blocks/quiz/__button/quiz__button.css");
+
+@import url("../blocks/people/people.css");
+@import url("../blocks/people/__cards/people__cards.css");
+
+@import url("../blocks/card/card.css");
+@import url("../blocks/card/__title/card__title.css");
+@import url("../blocks/card/__image/card__image.css");
+
+@import url("../blocks/numbers/numbers.css");
+@import url("../blocks/numbers/__counters/numbers__counters.css");
+@import url("../blocks/numbers/__counter/numbers__counter.css");
+
+@import url("../blocks/counter/counter.css");
+@import url("../blocks/counter/__value/counter__value.css");
+@import url("../blocks/counter/__label/counter__label.css");
+
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__nav/footer__nav.css");
+@import url("../blocks/footer/__link/footer__link.css");
+@import url("../blocks/footer/__link/_last/footer__link_last.css");
+
+.page {
+  font-family: Montserrat, Tahoma, Geneva, Verdana, sans-serif;
+}

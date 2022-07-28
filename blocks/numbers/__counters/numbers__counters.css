@@ -1,0 +1,4 @@
+.numbers__counters {
+  display: flex;
+  gap: 60px;
+}

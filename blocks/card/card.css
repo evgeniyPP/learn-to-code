@@ -1,0 +1,8 @@
+.card {
+  width: calc(25% - 20px);
+}
+
+.card:hover,
+.card:focus {
+  color: var(--primary);
+}

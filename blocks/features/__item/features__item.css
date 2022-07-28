@@ -1,0 +1,10 @@
+.features__item {
+  font-size: 20px;
+  padding: 12px;
+  margin-left: -10px;
+}
+
+.features__item:hover,
+.features__item:focus {
+  background-color: var(--primary);
+}

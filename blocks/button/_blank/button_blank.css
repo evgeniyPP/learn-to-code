@@ -1,0 +1,10 @@
+.button_blank {
+  color: var(--black);
+  padding: 0;
+  background: 0;
+}
+
+.button_blank:active {
+  background: 0;
+  color: var(--primary);
+}

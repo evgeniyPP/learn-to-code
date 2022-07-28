@@ -1,0 +1,10 @@
+.button {
+  font-weight: bold;
+  padding: 10px 20px;
+  background-color: var(--primary);
+  color: var(--white);
+}
+
+.button:active {
+  background-color: var(--dark-primary);
+}

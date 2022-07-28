@@ -1,0 +1,8 @@
+.features {
+  color: var(--white);
+  background-color: var(--dark-primary);
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 40px;
+  gap: 40px;
+}
